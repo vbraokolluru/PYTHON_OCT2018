@@ -1,0 +1,15 @@
+1. Write program for below
+
+#1
+#2   2
+#3   3   3
+#4   4   4   4
+#5   5   5   5   5
+
+2. Tables upto 10
+
+3. Prime number display upto 100
+
+4. How order a list in reverse 
+5. How to print pyramid
+6. Terminate loop until you type no.
